@@ -1,0 +1,1 @@
+Site inspirado no Linktree, Design totalmente autentico, porem o foco maior é na usabilidade tentando ser fiel ao do Linktree.
